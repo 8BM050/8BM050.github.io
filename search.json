@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "ATTRIBUTIONS.html",
-    "href": "ATTRIBUTIONS.html",
-    "title": "8BM050",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome!",
     "section": "",
-    "text": "Random cat generation by CATAAS (Cat as a service)"
+    "text": "Welcome to the course homepage of 8BM050 - Systems Biology Models! Use the buttons below to select your academic year:\n2024 - 2025 2025 - 2026 2026 - 2027"
   },
   {
     "objectID": "LICENSE.html",
@@ -14,10 +14,10 @@
     "text": "License"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome!",
+    "objectID": "ATTRIBUTIONS.html",
+    "href": "ATTRIBUTIONS.html",
+    "title": "8BM050",
     "section": "",
-    "text": "Welcome to the course homepage of 8BM050 - Systems Biology Models! Use the buttons below to select your academic year:\n2024 - 2025 2025 - 2026 2026 - 2027"
+    "text": "Random cat generation by CATAAS (Cat as a service)"
   }
 ]
