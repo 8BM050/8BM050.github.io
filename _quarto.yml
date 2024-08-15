@@ -1,0 +1,51 @@
+project:
+  type: website
+  preview:
+   watch-inputs: false
+
+execute:
+  freeze: auto
+
+website:
+
+  announcement:
+    icon: exclamation-triangle
+    dismissable: false
+    content: "**Warning** - The course website is still under construction"
+    type: warning
+    position: above-navbar
+
+  page-navigation: true
+  title: "8BM050"
+  description: "Homepage for 8BM050 - Systems Biology Models at Eindhoven University of Technology"
+
+  open-graph: true
+
+  repo-url: https://github.com/8BM050/8BM050.github.io
+  repo-actions: [edit, issue]
+
+  page-footer:
+    left: "The webpage was built with ❤️ and [Quarto](https://quarto.org/)."
+    right:
+    - text: "License"
+      href: LICENSE.md
+    - text: "Attribution"
+      href: ATTRIBUTIONS.md
+
+  navbar:
+    background: "#C81919"
+    logo: "assets/course-logo.png"
+    align: center
+    title: false
+    collapse-below: md
+    right:
+      - text: "Home"
+        href: index.qmd
+
+format:
+  html:
+    theme: 
+      light: [cosmo, style/theme.scss]
+      dark: [cosmo, style/theme.scss, style/theme-dark.scss]
+    mainfont: "Avenir Next"
+    toc: true

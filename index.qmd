@@ -1,0 +1,9 @@
+---
+title: "Welcome!"
+---
+
+Welcome to the course homepage of 8BM050 - Systems Biology Models! Use the buttons below to select your academic year:
+
+[2024 - 2025](/24-25){.btn .btn-danger .mr-4 }
+[2025 - 2026](/25-26){.btn .btn-danger .mr-4 }
+[2026 - 2027](/26-27){.btn .btn-danger .mr-4 }
