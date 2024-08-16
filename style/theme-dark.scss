@@ -109,25 +109,25 @@ $input-bg: #242424;
 }
 
 .btn-danger{
-  color: #C81919;
-  background: #fefefe;
+  color: #fff;
+  background: #303030;
   border-color: #000000
 }
 
 .btn-danger:hover, .btn-danger:focus, .btn-danger:active, .btn-danger.active, .open>.dropdown-toggle.btn-danger {
-  color: #fff;
-  background-color: #C81919;
+  color: #525252;
+  background-color: #303030;
   border-color: #000000; /*set the color you want here*/
 }
 
 .btn-success{
-  color: #155f11;
-  background: #fefefe;
+  color: #fff;
+  background: #303030;
   border-color: #000000
 }
 
 .btn-success:hover, .btn-success:focus, .btn-success:active, .btn-success.active, .open>.dropdown-toggle.btn-success {
-  color: #fff;
-  background-color: #155f11;
+  color: #525252;
+  background-color: #303030;
   border-color: #000000; /*set the color you want here*/
 }

@@ -45,7 +45,7 @@ website:
 format:
   html:
     theme: 
-      light: [cosmo, style/theme.scss]
-      dark: [cosmo, style/theme.scss, style/theme-dark.scss]
+      light: [lux, style/theme.scss]
+      dark: [lux, style/theme.scss, style/theme-dark.scss]
     mainfont: "Avenir Next"
     toc: true
